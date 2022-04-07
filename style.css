@@ -46,10 +46,11 @@ body {
     align-items: center;
     opacity: 0;
     transition: .7s;
+    border-radius: 3%;
 }
 
 .container .card-overlay:hover {
-    opacity: .6;
+    opacity: .5;
     transition: .7s;
 }
 
